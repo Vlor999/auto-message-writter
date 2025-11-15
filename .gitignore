@@ -20,3 +20,7 @@ __pycache__/
 
 # env variables
 .env
+
+# data
+data/chat
+data/attachments
